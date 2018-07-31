@@ -8,6 +8,8 @@ Description: Provides utilities to highlight table components in R console and
 License: MIT + file LICENSE
 Imports: 
     crayon
+Suggests: 
+    tibble
 ByteCompile: true
 Encoding: UTF-8
 LazyData: true
