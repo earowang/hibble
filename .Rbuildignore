@@ -1,0 +1,9 @@
+^hibble\.Rproj$
+^\.Rproj\.user$
+^README\.Rmd$
+^\.DS_Store$
+^Makefile$
+^docs$
+^_pkgdown\.yml$
+^LICENSE\.md$
+^\.github$

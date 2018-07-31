@@ -1,0 +1,13 @@
+Package: hibble
+Title: Highlight Data Frame in Console and Markdown
+Version: 0.0.0.9000
+Authors@R: person("Earo", "Wang", email = "earo.wang@gmail.com", role = c("aut", "cre"))
+Description: Provides utilities to highlight table components in R console and 
+    markdown documents. It features header, row, column, and cell highlighting,
+    in stylish ways.
+License: MIT + file LICENSE
+Imports: 
+    crayon
+ByteCompile: true
+Encoding: UTF-8
+LazyData: true
