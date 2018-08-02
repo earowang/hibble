@@ -7,7 +7,7 @@ not_data_frame <- function(x) {
 }
 
 not_tibble <- function(x) {
-  if (!is_tibble(x)) {
+  if (!tibble::is_tibble(x)) {
     stop(
       sprintf("Can only handle `tbl_df`, not class `%s`.", class(x)),
       call. = FALSE)
